@@ -10,7 +10,7 @@
 ## LISCENCE
 * This project is licensed under the MIT License
 ## AUTHORS
-* Armaan Ranjan-armaan.ranjan04@gmail.com
+* Armaan Ranjan -armaan.ranjan04@gmail.com
 ## ACKNOWLEDGEMENT
 * SRM KTR SIGKDD Student Chapter
 * https://www.kaggle.com/
